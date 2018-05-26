@@ -17,6 +17,9 @@ public class Hello {
 		System.out.println("feature1-2");
 		System.out.println("feature1-3");
 		System.out.println("feature1-4");
+		System.out.println("feature3-1");
+		System.out.println("feature3-2");
+		System.out.println("feature3-3");
 	}
 	
 }
