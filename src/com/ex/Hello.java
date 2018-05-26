@@ -11,6 +11,10 @@ public class Hello {
 		System.out.println("c10");
 		System.out.println("c12");
 		System.out.println("c13");
+		System.out.println("c4");
+		System.out.println("issv2 c7");
+		System.out.println("c8");
+		System.out.println("c11");
 	}
 	
 }
