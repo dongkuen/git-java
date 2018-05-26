@@ -12,6 +12,7 @@ public class Hello {
 		System.out.println("feature2-1");
 		System.out.println("feature2-2");
 		System.out.println("feature2-3");
+		System.out.println("release1.0.1");
 	}
 	
 }
